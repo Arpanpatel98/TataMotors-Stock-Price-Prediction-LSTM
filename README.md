@@ -5,7 +5,7 @@ This project aims to predict Tata Motors' stock prices using LSTM (Long Short-Te
 ## Project Structure
 
 1. **DataSets**
-   - **TATAMOTORS_02_JUN_1991_18_AUG_2024.csv**: Contains historical stock price data used for training the model.
+   - **TATAMOTORS_02_JUN_1991_14_JUN_2024.csv**: Contains historical stock price data used for training the model.
    - **TATAMOTORS_18_JUN_2024_18_AUG_2024.csv**: Contains stock price data for testing the model on one month that was not included in the training data.
    - **TATAMOTORS_18_Aug_2019_18_JUN_2024.csv**: A sample dataset containing training data.
    - **TATAMOTORS_2000_2021.csv**: A sample dataset containing training data.
